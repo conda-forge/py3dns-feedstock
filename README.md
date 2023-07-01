@@ -1,11 +1,11 @@
-About py3dns
-============
+About py3dns-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/py3dns-feedstock/blob/main/LICENSE.txt)
 
 Home: https://launchpad.net/py3dns
 
 Package license: LicenseRef-CNRI
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/py3dns-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python 3 DNS library
 
