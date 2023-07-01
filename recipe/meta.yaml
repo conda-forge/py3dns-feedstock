@@ -1,5 +1,5 @@
 {% set name = "py3dns" %}
-{% set version = "3.2.1" %}
+{% set version = "4.0.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/py3dns-{{ version }}.tar.gz
-  sha256: 1f07d4463e98d9859ce0280c3eaa57da670ad623f6d4d3285c67dca23d7045e4
+  sha256: ddfdb691a6b7db3e706cd1e33ffeb5a4f45f28e0b8574ea4b8b74ef2c055330b
 
 build:
   noarch: python
